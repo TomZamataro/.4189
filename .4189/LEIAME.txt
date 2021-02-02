@@ -1,0 +1,23 @@
+	.4189
+
+Instalação do Jogo:
+1 - Descompacte o arquivo 4189.zip;
+2 - Abra a pasta 4189;
+3 - Duplo-Clique com o botão esquerdo do mouse no arquivo 4189.exe;
+4 - Divirta-se.
+
+
+	Controles:
+Movimento: Teclas direcionais/WASD.
+Interagir com botão: Encostar o personagem no mesmo.
+Pausar: Tecla ESC/Botão “PAUSE” (Canto superior esquerdo).
+Fechar Jogo: Botão “QUIT” (Menu/Menu de Pause).
+
+	Menu de Pause:
+Voltar ao Jogo: Tecla ESC/Botão “CONTINUE”.
+Fechar Jogo: Botão “QUIT”.
+Ir para o menu inicial: Botão “MENU”.
+
+
+
+OBS: O Jogo é no estilo “HardCore”, caso você morra em qualquer fase voltará ao quarto do personagem - antes da primeira fase, caso feche o Jogo ao abri-lo novamente voltará ao menu inicial.

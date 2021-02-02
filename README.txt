@@ -1,0 +1,1 @@
+All game files are inside the .4189 folder and the instructions are on the LEIAME.txt file also inside the .4189 folder
